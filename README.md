@@ -16,6 +16,6 @@
 
 <strong> Connect with me: </strong> 
  
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/)
+[![@diego-nova.data](https://img.icons8.com/fluency/48/000000/linkedin.png "@diego-nova-data")](www.linkedin.com/in/diego-nova-data/) [![@nova.arevalo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@nova.arevalo@gmail.com")](nova.arevalo@gmail.com)
 
 <br>
