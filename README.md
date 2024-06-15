@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hello , I'm Diego Nova </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me:**
+## <picture><img src = "https://img.icons8.com/?size=100&id=HRcZ1Ac5k5xo&format=png&color=000000" width = 50px></picture> **About me:**
 
 <br>
 
