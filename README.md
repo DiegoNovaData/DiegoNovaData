@@ -16,7 +16,7 @@
 <br>
 
 
-<img src="https://img.icons8.com/?size=50&id=121464&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=59927&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=70667&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=9uVrNMu3Zx1K&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=GOHWqwnSE8Sv&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=Nfd3IAeqbVZ6&format=png&color=000000"/>  <img src="https://img.icons8.com/?size=50&id=o6OvAxG0nzTH&format=png&color=000000"/> 
+<img src="https://img.icons8.com/?size=50&id=121464&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=xBKl2pdJg5kk&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=59927&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=70667&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=9uVrNMu3Zx1K&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=GOHWqwnSE8Sv&format=png&color=000000"/> <img src="https://img.icons8.com/?size=50&id=Nfd3IAeqbVZ6&format=png&color=000000"/>  <img src="https://img.icons8.com/?size=50&id=o6OvAxG0nzTH&format=png&color=000000"/> 
 
 ## Connect with me:
 <br>
