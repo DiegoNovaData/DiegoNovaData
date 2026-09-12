@@ -13,7 +13,7 @@ Data Engineer with **5+ years of experience** designing and running data platfor
 - 🗄️ Distributed query engines over object storage — Trino, Hive Metastore, MinIO
 - ✅ Data quality & testing — dbt, Great Expectations
 - 🏗️ Schema migrations & CI/CD — Alembic / Flyway, GitHub Actions
-- 🐳 On-prem infra — Docker / Docker Compose
+- 🐳 On-prem infra — Docker / Docker Compose, Kubernetes
 
 **Currently:**
 - 🏗️ Building **Telco DataOps Lab** — a self-directed, six-phase project building a KPI analytics platform end to end, with architecture documented as ADRs + C4/Mermaid diagrams. *(→ link once published)*
@@ -25,23 +25,43 @@ Data Engineer with **5+ years of experience** designing and running data platfor
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,scala,postgres" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Orchestration & Data Platform**
 
-<img src="https://skillicons.dev/icons?i=airflow,kafka,spark" /> &nbsp; <img height="48" src="https://cdn.simpleicons.org/dbt/FF694B" /> &nbsp; <img height="48" src="https://cdn.simpleicons.org/trino/DD00A1" /> &nbsp; <img height="48" src="https://cdn.simpleicons.org/minio/C72E49" /> &nbsp; <img height="48" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 **Infra & Ops**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Storytelling & Monitoring**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Also exploring**
 
-<img src="https://skillicons.dev/icons?i=grafana" /> &nbsp; · Graph databases
+![AWS](https://img.shields.io/badge/AWS%20Kinesis-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Graph Databases](https://img.shields.io/badge/Graph%20Databases-4B0082?style=for-the-badge&logo=neo4j&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+
+<div align="center">
 
 ---
 
-<div align="center">
+**Contact Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-nova-data)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nova.arevalo@gmail.com)
